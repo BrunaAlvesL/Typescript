@@ -11,7 +11,7 @@ var spaceship = {
     name: '',
     pilot: '',
     speed: 0,
-    inMission: false,
+    inMission: false
 };
 var pilot = "Han Solo";
 spaceship.name = "Millennium Falcon";
