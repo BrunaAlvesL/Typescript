@@ -1,6 +1,10 @@
 {
     "compilerOptions": {
+<<<<<<< Updated upstream
       "target": "esnext",
       "outFile": "main.js"
+=======
+      "outFile": "main.js",
+>>>>>>> Stashed changes
     }
   }

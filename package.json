@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< Updated upstream
     "build": "tsc"
+=======
+    "build": "tsc index.ts"
+>>>>>>> Stashed changes
   },
   "keywords": [],
   "author": "",
